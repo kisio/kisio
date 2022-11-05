@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kisio
-- 👀 I’m interested in backend & API development 
+- 👀 I write Code
 - 🌱 I’m enjoying building things
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 reach me derrickkisio@gmail.com
