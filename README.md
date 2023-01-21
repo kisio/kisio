@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kisio
-- 👀 I write Code
 - 🌱 I love building things
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 reach me derrickkisio@gmail.com
