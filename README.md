@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @derrick kisio<br>🌱 I love engineering things<br>🌱I am currently learning Javascript<br>💞️ I’m looking to collaborate on any open source project<br>📫 reach me derrickkisio@gmail.com
+👋Hi, I’m @derrick kisio<br>🌱 I love engineering things<br>🌱I am currently learning Javascript<br>💞️ I’m looking to collaborate on any open source project<br>📫 reach me derrickkisio@gmail.com
 
 
 ## 🌐 Socials:
