@@ -7,9 +7,9 @@ I thrive at the intersection of **development and operations**, ensuring smooth 
 ---
 
 ## 🔧 Tech Stack & Tools  
-- **Languages:** JavaScript, Python, Go, Java  
+- **Languages:** JavaScript, Python, Go, C#,.NET  
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, Azure, GCP  
-- **CI/CD & Automation:** GitHub Actions, Jenkins, Terraform, Ansible  
+- **CI/CD & Automation:** GitHub Actions, Jenkins, Terraform, Ansible,Docker  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **Other:** Linux, Git, Agile  
 
