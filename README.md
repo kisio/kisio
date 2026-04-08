@@ -29,3 +29,7 @@ I'm passionate about building **scalable, cloud-native applications** and **auto
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+## 📈 Stats
+![Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kisio&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisio&layout=compact&theme=radical)
